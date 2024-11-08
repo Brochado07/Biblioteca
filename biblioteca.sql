@@ -76,7 +76,7 @@ INSERT INTO Prestamos (ID_Usuario, ID_Libro, Fecha_Prestamo, Fecha_Devolucion) V
     (1, 1, '2024-08-01', '2024-08-15'),
     (2, 2, '2024-08-02', '2024-08-16');
 
--- Consultar los rgistros
+-- Consultar los registros
 
 SELECT * FROM Autores;
 SELECT * FROM Categorias;
